@@ -1,0 +1,153 @@
+{
+  "sabores": [
+    {
+      "id": 0,
+      "ingredientes": {
+        "0": "Creme de Açaí",
+        "1": "Banana",
+        "2": "Granola"
+      },
+      "nome": "Acaí Tradicional",
+      "src": "https://firebasestorage.googleapis.com/v0/b/jaacai.appspot.com/o/acai-img%2FacaiMorango.jpg?alt=media&token=7e5d6cb5-7de7-46f8-9c94-2b757667a9b9",
+      "valores": {
+        "200": 6.5,
+        "300": 8.5,
+        "500": 10.5,
+        "700": 14.5
+      }
+    },
+    {
+      "id": 1,
+      "ingredientes": {
+        "0": "Creme de Açaí",
+        "1": "Banana",
+        "2": "Granola",
+        "3": "Leite em pó"
+      },
+      "nome": "Acaí Leite em Pó",
+      "src": "https://firebasestorage.googleapis.com/v0/b/jaacai.appspot.com/o/acai-img%2FacaiLeitePo.jpg?alt=media&token=117a22b3-d4b6-4590-a7cf-bc69f18d8a85",
+      "valores": {
+        "200": 8,
+        "300": 10,
+        "500": 12,
+        "700": 16.5
+      }
+    },
+    {
+      "id": 2,
+      "ingredientes": {
+        "0": "Creme de Açaí",
+        "1": "2 Bombons picados",
+        "2": "Sorvete",
+        "3": "Cobertura"
+      },
+      "nome": "Acaí Ouro Branco",
+      "src": "https://firebasestorage.googleapis.com/v0/b/jaacai.appspot.com/o/acai-img%2FacaiOuroBranco.jpg?alt=media&token=640c8108-1248-4e4d-85e0-34477309a26d",
+      "valores": {
+        "200": 9,
+        "300": 11,
+        "500": 13,
+        "700": 18
+      }
+    },
+    {
+      "id": 3,
+      "ingredientes": {
+        "0": "Creme de Açaí",
+        "1": "Banana",
+        "2": "Granola",
+        "3": "Leite Condensado"
+      },
+      "nome": "Acaí Leite Condensado",
+      "src": "https://firebasestorage.googleapis.com/v0/b/jaacai.appspot.com/o/acai-img%2FacaiLeitePo.jpg?alt=media&token=117a22b3-d4b6-4590-a7cf-bc69f18d8a85",
+      "valores": {
+        "200": 8,
+        "300": 10,
+        "500": 12,
+        "700": 16.5
+      }
+    },
+    {
+      "id": 4,
+      "ingredientes": {
+        "0": "Creme de Açaí",
+        "1": "Banana",
+        "2": "Gotas de chocolate",
+        "3": "Cobertura de chocolate"
+      },
+      "nome": "Acaí Chocolate",
+      "src": "https://firebasestorage.googleapis.com/v0/b/jaacai.appspot.com/o/acai-img%2FacaiGotasChocolate.jpg?alt=media&token=9a8a3e2c-a938-41d9-9dd9-aa58db4bd0f8",
+      "valores": {
+        "200": 9,
+        "300": 11,
+        "500": 13,
+        "700": 18.5
+      }
+    },
+    {
+      "id": 5,
+      "ingredientes": {
+        "0": "Creme de Açaí",
+        "1": "2 Bombons picados",
+        "2": "Sorvete",
+        "3": "Cobertura"
+      },
+      "nome": "Acaí Sonho de Valsa",
+      "src": "https://firebasestorage.googleapis.com/v0/b/jaacai.appspot.com/o/acai-img%2FacaiSonhoValsa.jpg?alt=media&token=b04f978b-f7d7-41aa-a2ff-41ef153e2ea7",
+      "valores": {
+        "200": 9,
+        "300": 11,
+        "500": 13,
+        "700": 18
+      }
+    },
+    {
+      "id": 6,
+      "ingredientes": {
+        "0": "Creme de Açaí",
+        "1": "Morango",
+        "2": "Granola"
+      },
+      "nome": "Acaí Morango",
+      "src": "https://firebasestorage.googleapis.com/v0/b/jaacai.appspot.com/o/acai-img%2FacaiMorango.jpg?alt=media&token=7e5d6cb5-7de7-46f8-9c94-2b757667a9b9",
+      "valores": {
+        "200": 9,
+        "300": 11,
+        "500": 13,
+        "700": 18
+      }
+    },
+    {
+      "id": 7,
+      "ingredientes": {
+        "0": "Creme de Açaí",
+        "1": "Banana",
+        "2": "Confete"
+      },
+      "nome": "Acaí Confete",
+      "src": "https://firebasestorage.googleapis.com/v0/b/jaacai.appspot.com/o/acai-img%2FacaiConfete.jpg?alt=media&token=0a00b2dd-6fbf-4c01-84cf-8ecb60b9791f",
+      "valores": {
+        "200": 9,
+        "300": 11,
+        "500": 13,
+        "700": 18
+      }
+    },
+    {
+      "id": 8,
+      "ingredientes": {
+        "0": "Creme de Açaí",
+        "1": "Kiwi ou manga",
+        "2": "Leite Condensado"
+      },
+      "nome": "Acaí Frutas",
+      "src": "https://firebasestorage.googleapis.com/v0/b/jaacai.appspot.com/o/acai-img%2FacaiMorango.jpg?alt=media&token=7e5d6cb5-7de7-46f8-9c94-2b757667a9b9",
+      "valores": {
+        "200": 9,
+        "300": 11,
+        "500": 13,
+        "700": 18
+      }
+    }
+  ]
+}
